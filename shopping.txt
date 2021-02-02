@@ -12,9 +12,4 @@ orange juice
 grapes
 lemons
 lettuce
-rice
-soup
-ice cream
-sugar
-flour
 
