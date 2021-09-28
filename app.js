@@ -1,1 +1,1 @@
-
+const one = 'one string'
